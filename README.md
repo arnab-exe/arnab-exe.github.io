@@ -17,9 +17,6 @@ This site showcases my projects, skills, and background as a developer and desig
 
 - **HTML5** — Markup for structure
 - **CSS3** — Custom styling and layout
-- **JavaScript** — Interactive functionality
-- **Bootstrap** — Responsive grid and components (if used)
-- **GSAP** — For smooth animations (if used)
 
 ## 📁 Folder Structure
 
